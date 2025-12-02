@@ -78,6 +78,10 @@
 		{
 			"Name": "BlueprintFileUtils",
 			"Enabled": true
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
